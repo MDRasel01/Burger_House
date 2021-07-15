@@ -197,8 +197,10 @@ text-align: center;
 
 .section_3_1st p{
     font-family: 'Montserrat', sans-serif;
-    margin: 0px 131px;
-    color: #3d3d3d;
+    margin: 0px 232px;
+    color: #8c8989;
+    font-size: 13px;
+    word-spacing: 2px;
 }
 
 .all_burger{ 
